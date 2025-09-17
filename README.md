@@ -32,6 +32,9 @@
         <Text1>EE</Text1>
         <Text2>LIT</Text2>
         <Text3>1</Text3>
+        <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
+        <CardNumber>358621</CardNumber>
+        </SoftwareHouse.NextGen.Common.SecurityObjects.Credential>
         <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
         <ClearanceKey>70001</ClearanceKey>
         </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
@@ -50,10 +53,13 @@
     </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
     <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
         <FirstName>小華</FirstName>
-        <LastName>陳</LastName>
+        <LastName>	陳</LastName>
         <Text1>GG</Text1>
         <Text2>AKA</Text2>
         <Text3>2</Text3>
+        <SoftwareHouse.NextGen.Common.SecurityObjects.Credential ImportMode="Default">
+        <CardNumber>358622</CardNumber>
+        </SoftwareHouse.NextGen.Common.SecurityObjects.Credential>
         <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
         <ClearanceKey>70006</ClearanceKey>
         </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
