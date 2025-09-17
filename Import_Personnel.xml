@@ -1,0 +1,358 @@
+<CrossFire culture-info="zh-TW" platform-version="3.0.0" product-version="3.0.0">
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明1</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>1</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70002</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70003</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70004</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明2</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>2</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明3</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>3</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明4</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>4</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明5</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>5</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明6</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>6</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明7</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>7</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明8</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>8</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明9</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>9</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明10</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>10</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明11</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>11</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明12</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>12</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明13</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>13</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明14</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>14</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明15</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>15</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明16</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>16</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明17</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>17</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明18</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>18</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明19</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>19</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明20</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>20</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明21</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>21</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明22</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>22</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明23</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>23</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明24</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>24</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明25</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>25</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70001</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70005</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+  <SoftwareHouse.NextGen.Common.SecurityObjects.Personnel ImportMode="Default">
+    <FirstName>小明26</FirstName>
+    <LastName>王</LastName>
+    <Text1>EE</Text1>
+    <Text2>LIT</Text2>
+    <Text3>26</Text3>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70006</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70007</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70008</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70009</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+    <SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair ImportMode="Default">
+      <ClearanceKey>70010</ClearanceKey>
+    </SoftwareHouse.NextGen.Common.SecurityObjects.PersonnelClearancePair>
+  </SoftwareHouse.NextGen.Common.SecurityObjects.Personnel>
+</CrossFire>
